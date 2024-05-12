@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the site for [Eypz](https://github.com/sataniceypz).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="sataniceypz/Izumi-v2"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
