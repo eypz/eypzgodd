@@ -1,16 +1,16 @@
 ---
-title: Simple Guides for Fuwari
+title: Simple Guides for Eypz
 published: 2024-04-01
 description: "How to use this blog template."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: ["Eypz", "Blogging", "Customization"]
 category: Guides
 draft: false
 ---
 
 > Cover image source: [Source](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
 
-This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
+This blog template is built with [Eypz](https://github.com/sataniceypz/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Contact](https://wa.me/message/IU2AC4VHJADIF1).
 
 ## Front-matter of Posts
 
