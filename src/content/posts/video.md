@@ -12,11 +12,11 @@ Just copy the embed code from YouTube or other platforms, and paste it in the ma
 ```yaml
 ---
 title: Include Video in the Post
-published: 2023-10-19
+published: 2024-05-12
 // ...
 ---
 
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://youtu.be/t5i-FFf6f5M?si=95mKQac3kRtretJ2" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ```
 
 ## YouTube
